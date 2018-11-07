@@ -4,7 +4,7 @@
   "description": "\"Belajar Pertama Backend\"",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "\"Rio Yudha P\"",
   "license": "ISC",
