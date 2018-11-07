@@ -1,0 +1,7 @@
+{
+    "local" : {
+        "host" : "mongodb://admin:rio1011@ds155203.mlab.com",
+        "ports" : 55203,
+        "dbname" : "db_master"
+    }
+}
